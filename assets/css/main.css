@@ -1739,3 +1739,7 @@ textarea.form-control {
 .bca{
   padding-top: 40px;
 }
+html,body{
+	width:100%;
+	overflow-x:hidden;
+}
